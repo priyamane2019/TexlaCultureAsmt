@@ -1,0 +1,86 @@
+.s2container
+{
+    display:flex;
+    padding:0;
+    margin:0;
+
+}
+
+.tableform{
+width:50rem;
+}
+.barchat
+{
+width:20rem;
+}
+.serviceall{
+    display: flex;
+}
+.all{
+    display: flex;
+    width:5rem;
+    height:2.5rem;
+    gap:2rem;
+    border-radius: 5px;
+    border:1px solid gainsboro;
+    cursor: pointer;
+}
+.searchclient{
+    padding: 10px;
+    width:43rem;
+    margin-left:5px;
+    border:1px solid gainsboro;
+    border-radius: 5px;
+
+}
+.searchip
+{
+    width:20rem;
+    height:1rem;
+    padding-left: 1rem;
+    border: none;
+}
+th{
+    width:25rem;
+    background-color:gainsboro;
+    border:none;
+
+}
+td{
+    height:4rem;
+    border:none;
+    padding-left:15px ;
+}
+.tablebtnA, .tablebtnD{
+    width:5rem;
+    height:1.5rem;
+    border-radius:5px;
+    border: none;
+}
+.tablebtnA{
+    background-color: aquamarine;
+}
+.tablebtnD{
+    background-color:lightgray;
+}
+.tdflex1{
+    padding-top: 10px;
+    display: flex;
+    width:15rem;
+    height:3rem;
+    background-color:lightblue;
+}
+.tdflex2{
+    padding-top: 10px;
+    display: flex;
+    width:15rem;
+    height:3rem;
+    background-color:lightgreen;
+}
+.tdflex3{
+    display: flex;
+    padding-top: 10px;
+    width:15rem;
+    height:3rem;
+    background-color:lightpink;
+}

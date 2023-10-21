@@ -1,0 +1,186 @@
+.scontainer{
+    margin:0;
+    padding:5px;
+}
+.sectioninfo1
+{
+  display: flex;
+  padding:5px;
+}
+.nav{
+    display: flex;
+    gap:20px;
+    cursor: pointer;
+}
+.hr
+{
+    background-color: green;
+    height:2px;
+    border:none;
+    margin:8px;
+    
+}
+.performence, .cmpystatus, .userbar{
+    display:flex;
+}
+.performence
+{
+    width:30rem;
+    margin:10px;
+    border-radius: 5px;
+    background-color:white;
+  border: 1px solid gainsboro;
+
+}
+.cmpystatus{
+    margin-top: 10px;
+    width:17rem;
+    height:5rem;
+    border:1px solid gainsboro;
+    border-radius: 5px;
+    padding: 5px 20px 5px 20px;
+}
+.userbar{
+    margin-top: 10px;
+    margin-left:4px;
+    width:20rem;
+    height:5rem;
+    border:1px solid gainsboro;
+    border-radius: 5px;
+    display: flex;
+    
+
+}
+.rate{
+    margin:5px;
+}
+.keyindecator1, .keyindecator2, .keyindecator3
+{
+    height:3 rem;
+    margin:10px 0px 10px 10px;
+    line-height: 5px;
+    padding-top: 5px;
+}
+.keyindecator1{
+    border-left:3px solid blue;
+}
+.keyindecator2
+{
+    border-left:3px solid skyblue;
+}
+.keyindecator3
+{
+    border-left:3px solid green;
+}
+.rate{
+    padding-left: 5px;
+}
+.prate1
+{
+    padding-left:5px;
+    color:blue;
+}
+.prate2
+{
+    padding-left:5px;
+    color:skyblue;
+}
+.prate3{
+    padding-left:5px;
+    color:green;
+}
+.title{
+    display: flex;
+    gap:20rem;
+}
+.keyindecator-1, .keyindecator-2, .keyindecator-3
+{
+    height:4rem;
+    width:7rem;
+    margin:10px 0px 5px 0px;
+    line-height: 2px;
+    padding-left: 5px;
+}
+.keyindecator-1{
+    border-left:3px solid green;
+
+}
+.prate-1
+{
+    padding-left: 5px;
+    color:blue;
+}
+.prate-2
+{
+    padding-left: 5px;
+    color:green;
+
+}
+.prate-3{
+    color:skyblue;
+    padding-left: 5px;
+}
+
+.keyindecator-1{
+    border-left:3px solid blue;
+}
+.keyindecator-2
+{
+    border-left:3px solid green;
+
+}
+.keyindecator-3
+{
+    border-left:3px solid skyblue;
+}
+
+.circlebl, .circlegr{
+    width:25px;
+    height:20px;
+    border-radius: 50%;
+}
+.circlebl{
+    background-color: blue;
+}
+.circlegr{
+    background-color: green;
+}
+
+
+
+
+.barrange1{
+    width:20rem;
+}
+.barrange2{
+    width:10rem;
+}
+
+.rangerow1{
+    margin-left:20px;
+    display:flex;
+    width:8rem;
+    padding:5px;
+}
+.rangerow2{
+    margin-left:-100px;
+    display:flex;
+    width:8rem;
+    padding:5px;
+}
+
+.blrange1{
+    margin-left: 25px;
+    width:15rem;
+    height:20px;
+    border-radius: 10px;
+    background-color: blue;
+    
+}
+.blrange2{
+    margin-left: 5px;
+    width:3rem;
+    height:20px;
+    border-radius: 10px;
+    background-color:green;
+}

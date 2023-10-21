@@ -1,0 +1,19 @@
+.search{
+    width:50rem;
+    height: 20px;
+}
+.content{
+    display: flex;
+}
+.headerright
+{
+    display: flex;
+    justify-content: space-between;
+}
+.imglogo{
+    width:2.5rem;
+    padding: 5px;
+}
+.container{
+    height:2rem;
+}

@@ -1,0 +1,29 @@
+.container {
+  margin:0;
+  padding: 0;
+  width:100%;
+  height:100%;
+  display: flex;
+
+}
+
+.column1 {
+  flex: 0;
+  padding:5px;
+  height:43rem;
+}
+
+.column1 {
+ 
+  display: flex;
+  flex-direction: column;
+}
+
+.full-height-div {
+  flex: 1;
+  background-color:white;
+  width:15rem;
+
+}
+
+
